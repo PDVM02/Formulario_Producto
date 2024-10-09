@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primer Parcial</string>
+    <string name="label_product">Nombre del producto</string>
+    <string name="label_price_product">Precio del producto</string>
+</resources>
